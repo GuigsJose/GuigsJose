@@ -4,6 +4,5 @@
 
 - 🔭 Atualmente estudando na Universidade Positivo
 - 🌱 Estudando todo tipo de tecnologia dentro e fora da faculdade.
-- 👯 I’m looking to collaborate on ...
 - 🤔 Eu gostaria de ideias para projetos em Java.
 
